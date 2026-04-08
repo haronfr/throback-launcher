@@ -1,2 +1,2 @@
 # throback-launcher
-Throback Launcher's src, fully released since people think we ratted everything.
+ts src broken, dont use it until i fix it
